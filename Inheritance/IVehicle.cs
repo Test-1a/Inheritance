@@ -1,9 +1,9 @@
 ﻿namespace Inheritance
 {
-    interface IVehicle
-    {
-        string RegNo { get; set; }
+    //interface IVehicle
+    //{
+    //    string RegNo { get; set; }
 
-        string Drive();
-    }
+    //    string Drive();
+    //}
 }
